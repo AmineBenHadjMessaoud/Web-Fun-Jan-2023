@@ -1,0 +1,15 @@
+.Main{
+    background-color: #e06666;
+    border: solid black 1px;
+    height: 400px;
+    width: 700px;
+    margin: 0px 20px 10px 5px;
+}
+.flex{
+    display: flex;
+}
+.flex-1{
+    margin: 10px 10px 10px 15px;
+    flex: 1;
+    justify-content: space-around;
+}

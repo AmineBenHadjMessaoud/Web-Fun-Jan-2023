@@ -1,0 +1,16 @@
+
+.App {
+  background-color: #dddddd;
+  border: solid black 1px;
+ margin: auto;
+  width: 960px;
+}
+.flex{
+  display: flex;
+}
+.flex-2{
+  flex: 1;
+}
+.flerx-1{
+  flex: 1;
+}

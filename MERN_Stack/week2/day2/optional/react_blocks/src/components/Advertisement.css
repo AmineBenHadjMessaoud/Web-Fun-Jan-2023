@@ -1,0 +1,7 @@
+.Advertisement{
+    background-color: #b4a7d6;
+    border: solid black 1px;
+    height: 120px;
+    display: flex;
+    margin: 10px 20px 10px 20px;
+}

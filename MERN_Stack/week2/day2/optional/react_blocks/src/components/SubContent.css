@@ -1,0 +1,8 @@
+.SubContent{
+    background-color: #ffd966;
+    border: solid black 1px;
+    height: 200px;
+    width: 210px;
+    display: inline-block;
+    margin: 5px;
+}
